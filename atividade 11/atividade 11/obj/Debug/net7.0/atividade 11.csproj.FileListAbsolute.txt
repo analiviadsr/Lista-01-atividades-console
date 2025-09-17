@@ -1,0 +1,15 @@
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\bin\Debug\net7.0\atividade 11.exe
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\bin\Debug\net7.0\atividade 11.deps.json
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\bin\Debug\net7.0\atividade 11.runtimeconfig.json
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\bin\Debug\net7.0\atividade 11.dll
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\bin\Debug\net7.0\atividade 11.pdb
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\obj\Debug\net7.0\atividade 11.csproj.AssemblyReference.cache
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\obj\Debug\net7.0\atividade 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\obj\Debug\net7.0\atividade 11.AssemblyInfoInputs.cache
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\obj\Debug\net7.0\atividade 11.AssemblyInfo.cs
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\obj\Debug\net7.0\atividade 11.csproj.CoreCompileInputs.cache
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\obj\Debug\net7.0\atividade 11.dll
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\obj\Debug\net7.0\refint\atividade 11.dll
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\obj\Debug\net7.0\atividade 11.pdb
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\obj\Debug\net7.0\atividade 11.genruntimeconfig.cache
+D:\Ana Livia DDS\Lista-01-atividades-console\atividade 11\atividade 11\obj\Debug\net7.0\ref\atividade 11.dll
